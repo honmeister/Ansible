@@ -2,5 +2,6 @@
 - hosts: all
   tasks:
   - name: Checks who i am
-  whoami:
+  command: whoami
+    
   
