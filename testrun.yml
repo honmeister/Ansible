@@ -1,5 +1,5 @@
 ---
-  - name: Checks who i am
+   -name: Checks who i am
     command: whoami
     
   
